@@ -46,5 +46,5 @@ in real time using acoustic signal analysis and edge AI.
 5. Rover stops and RED LED fires on fault detection
 
 ## Team
-- Hardware + Firmware: Deepti
-- ML Pipeline: [Teammate name]
+- Hardware + Firmware: Deeptipriya
+- ML Pipeline: Abirami
