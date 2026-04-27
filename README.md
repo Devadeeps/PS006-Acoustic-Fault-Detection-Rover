@@ -45,6 +45,3 @@ in real time using acoustic signal analysis and edge AI.
 4. Classifier confirms fault type
 5. Rover stops and RED LED fires on fault detection
 
-## Team
-- Hardware + Firmware: Deeptipriya
-- ML Pipeline: Abirami
