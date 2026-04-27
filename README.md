@@ -1,5 +1,5 @@
 
-# PS-006 AIoT Acoustic Fault Detection Rover
+# AIoT Acoustic Fault Detection Rover
 
 ## Overview
 An ESP32-S3 based rover that detects machine faults 
